@@ -1,4 +1,3 @@
-#TYPE System.Management.Automation.PSCustomObject,,
 DisplayName,EmailAddress,ManagerEmail
 Administrator,Administrator@elcam.co.il,
 tsachi shaked,tsachi@elcam.co.il,
